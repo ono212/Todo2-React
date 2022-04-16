@@ -1,5 +1,5 @@
 {
-  "singleQuote": true,
+  "singleQuote": false,
   "semi": true,
   "useTabs": false,
   "tabWidth": 2,
@@ -8,5 +8,6 @@
   "arrowParens": "always",
   "orderedImports": true,
   "bracketSpacing": true,
-  "jsxBracketSameLine": false
+  "jsxBracketSameLine": false,
+  "quoteProps": "as-needed"
 }
